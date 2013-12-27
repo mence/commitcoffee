@@ -2235,6 +2235,7 @@ var places = [
 		},
 		"link": {"homepage":"http://www.banffcentre.ca/dining/maclab-bistro.asp"}
 	},
+	{
 		"name": "Birch Coffee Flatiron",
 		"address": "5 E 27th St, New York, NY 10016",
 		"coordinates": ["40.697488","-73.979681"],
@@ -2249,7 +2250,8 @@ var places = [
 			"homepage":"http://www.birchcoffee.com",
 			"facebook","https://www.facebook.com/birchcoffee"
 		}
-	}
+	},
+	{
 		"city": "Brooklyn",
 		"country": "USA",
 		"name": "Toby's Estate Brooklyn",
